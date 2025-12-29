@@ -1,0 +1,17 @@
+# Docker
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Map data (too large for Git)
+*.osm.pbf
+*.osrm
+*.osrm.*
+
+# Git
+.git
